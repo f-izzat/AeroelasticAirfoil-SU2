@@ -1,0 +1,2 @@
+# AeroelasticAirfoil-SU2
+A simple framework that automatically generates SU2 configuration (.cfg) files and make calls to SU2 to perform aeroelastic simulations all within Python. The Matrix Pencil [4] method is then used to compute the damping coefficient. The code is based on SU2 v7.2.1 Blackbird (any version >= 7 should work).  I wrote this code for my undergraduate thesis "On a Support Vector Machine Approach To Surrogate Modelling: Predicting the Aeroelastic Flutter Boundary Within the Transonic Regime" alongside a conference paper [2].
